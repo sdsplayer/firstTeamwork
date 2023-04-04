@@ -5,7 +5,6 @@ import About from './components/About/index'
 function App() {
   return (
     <div>
-      <Navbar/>
       <About/>
     </div>
   );
