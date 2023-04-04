@@ -1,10 +1,12 @@
 import React from 'react';
-
+import { Box } from '@mui/material';
 const App = () => {
   return (
-    <div>
+    <Box sx={{
+      border: ' 1px solid red',
+    }}>
       
-    </div>
+    </Box>
   )
 }
 
