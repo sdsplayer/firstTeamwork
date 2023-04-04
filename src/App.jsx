@@ -1,12 +1,12 @@
 import React from "react";
 import Navbar from './components/Navbar'
-import Header from './components/Card'
+import Card  from './components/Card'
 import Portfolio from './components/Portfolio'
 function App() {
   return (
     <div>
       <Navbar/>
-      <Header/>
+      <Card/>
       <Portfolio/>
     </div>
   );
