@@ -18,6 +18,7 @@ export const Main = styled.div`
             height: 100%;
             display: flex;
             align-items: center;
+            cursor: pointer;
             &:hover{
                 color: #19191B;
                 border-bottom: 2px solid #5454D4;
