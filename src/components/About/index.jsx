@@ -3,9 +3,10 @@ import { Box, Grid, Typography, Button } from '@mui/material';
 import IMG from '../../assets/Img/Group.jpg';
 import IMG1 from '../../assets/Img/Group1.jpg';
 import IMG2 from '../../assets/Img/Group3.jpg';
-import IMG3 from '../../assets/Img/Group24.jpg';
+import IMG3 from '../../assets/Img/Group24.jpg'
 import IMG4 from '../../assets/Img/Vector.jpg';
 import IMG5 from '../../assets/Img/Content.png';
+
 
 
 export default function ResponsiveGrid() {

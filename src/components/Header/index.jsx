@@ -8,7 +8,8 @@ const Header = () => {
 
         <Main>
             <Box sx={{
-                paddingTop: '40px'
+                paddingTop: '40px',
+                marginBottom: '100px'
             }}>
                 <Typography sx={{
                     font: 'DMSans',
